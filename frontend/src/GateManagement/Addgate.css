@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+/* Apply Roboto to absolutely everything */
+* {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+body {
+  font-size: 14px;
+  margin: 0;
+}
+
+h4 {
+  font-weight: 700;
+}
+
+label, th, td, button, input, select {
+  font-size: 14px;
+}
